@@ -1,5 +1,5 @@
 # Beatbox
-Press the corresponding letter on your keyboard to play each sound.
+Transform your keyboard into a virtual beatbox, creating rhythmic sounds and beats with just a few taps
 
 Visit site here: https://gutimatt.github.io/beatbox/
 
